@@ -1,0 +1,54 @@
+*{
+    
+    padding: 0.5rem;
+}
+.container{
+    display: flex;
+    flex-direction: column;
+    width: 70%;
+    margin: auto;
+    padding: 1rem;
+    background-color:rgb(255, 255, 255);
+}
+.center{
+    text-align: center;
+}
+.heading{
+    margin: auto;
+    padding: 1rem;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.head{
+    color: aqua;
+}
+.desc{
+    margin: auto;
+    padding-bottom: 1rem;
+}
+.bill-lable{
+    margin: auto;
+}
+.cash-lable{
+    margin: auto;
+}
+#cash-given{
+    margin: auto;
+    margin-bottom: 1rem;
+    width: 30%;
+    border-radius: 0.5rem;
+    border-color: aqua  ;
+}
+#bill-amount{
+    margin: auto;
+    margin-bottom: 1rem;
+    width: 30%;
+    border-radius: 0.5rem;
+    border-color: aqua;
+}
+#check-button{
+    margin: auto;
+    margin-bottom: 1rem;
+    width: 30%;
+    border-radius: 0.5rem;
+    border-color: aqua  ;   
+}
