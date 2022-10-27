@@ -7,7 +7,7 @@
     display: flex;
     flex-direction: column;
     /* width: 50%; */
-    margin: auto;
+    /* margin: auto; */
     padding: 1rem;
     background-color:rgb(255, 255, 255);
 }
@@ -59,8 +59,9 @@
     color: white;
 }
 .change-table {
+    margin: auto;
     border: 3px solid #c12886;
-    width: 100%;
+    width: 50%;
     margin: auto;
 }
 .notes{
