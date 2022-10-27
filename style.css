@@ -59,10 +59,10 @@
     color: white;
 }
 .change-table {
+    border-collapse: collapse;
+    width: 0%;
     margin: auto;
-    border: 3px solid #c12886;
-    width: 50%;
-    margin: auto;
+    padding: 0.4rem;
 }
 .notes{
     border: 3px solid #c12886;
