@@ -19,7 +19,7 @@
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
 }
 .head{
-    color: aqua;
+    color: #c12886;
 }
 .desc{
     margin: auto;
@@ -36,19 +36,35 @@
     margin-bottom: 1rem;
     width: 30%;
     border-radius: 0.5rem;
-    border-color: aqua  ;
+    border-color: #c12886  ;
 }
 #bill-amount{
     margin: auto;
     margin-bottom: 1rem;
     width: 30%;
     border-radius: 0.5rem;
-    border-color: aqua;
+    border-color: #c12886;
 }
 #check-button{
+    margin-top: 1rem;
     margin: auto;
     margin-bottom: 1rem;
+    margin-top: 1rem;
     width: 30%;
     border-radius: 0.5rem;
-    border-color: aqua  ;   
+    border-color: #c12886  ;   
+    background-color: white;
+}
+#check-button:hover{
+    background-color: #c12886;
+    color: white;
+}
+.change-table {
+    border: 3px solid #c12886;
+}
+.notes{
+    border: 3px solid #c12886;
+}
+.no-of-notes{
+    border: 3px solid #c12886;
 }
