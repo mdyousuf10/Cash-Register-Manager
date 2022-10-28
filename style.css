@@ -53,10 +53,12 @@
     border-color: #c12886  ;   
     background-color: white;
     color: black;
+    width: 100px;
 }
 #check-button:hover{
     background-color: #c12886;
     color: white;
+    
 }
 .change-table {
     border-collapse: collapse;
